@@ -1,3 +1,10 @@
+# Team Divide By Zero
+  Projekt realizowany w ramach zajęć z Algorytmów podczas studiów w WSIZ. 
+  CZłonkowie zespołu:
+    Tomasz Kosek (lead)
+    Tomasz Tlałka
+    Grzegorz Kołodziejczyk
+
 # python1-2022
 Podstawy pythona 2022
 
