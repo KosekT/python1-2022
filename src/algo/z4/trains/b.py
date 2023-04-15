@@ -8,4 +8,10 @@ zadanie2:
 """
 
 def is_connected(train_data: list[tuple[int,int]], a: int, b: int) -> bool:
-    pass
+    return train_data.count((a,b)) > 0
+
+    # Alternatywnie
+    for i in train_data:
+        if i == (a, b):
+            return True
+    return False
