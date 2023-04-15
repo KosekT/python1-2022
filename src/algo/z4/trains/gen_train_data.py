@@ -5,6 +5,7 @@ System "pocigągów" ... de facto połączeń między miastami reprezentowanymi 
 
 
 """
+from collections import defaultdict
 from random import randint, seed
 from a import *
 from b import *
@@ -68,3 +69,5 @@ if __name__ == '__main__':
     # #Zadanie D 
     # print ("Zadanie D: \n", find_longest_trip_alt(train_schedule))
     
+    # train_schedule = generate_data(10)
+    # print(train_schedule)
